@@ -1,6 +1,6 @@
 # Simple-Android-Chat
 
-An past tech interview excercise done by required specs
+An past tech interview exercise done by required specs
 
 ## Tech stack
 
